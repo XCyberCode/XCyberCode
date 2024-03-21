@@ -8,5 +8,8 @@
 </div>
 
 <div align="center">
+  <h1>My Stats ⛺</h1>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XCyberCode&repo=DeskOS&theme=nord">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=XCyberCode&theme=nord&show_icons=true">
 </div>
